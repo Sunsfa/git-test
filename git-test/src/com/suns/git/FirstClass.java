@@ -7,4 +7,7 @@ public class FirstClass {
         System.out.println("hello tom");
         System.out.println("hello tom");
     }
+    public void play(){
+        System.out.println("aaaa");
+    }
 }
